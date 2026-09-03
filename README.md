@@ -13,6 +13,13 @@ Link Figma: https://www.figma.com/design/euWK58mS0iTiTHOn2V5cb3/Portf%C3%B3lio-A
 Link Drive: https://drive.google.com/drive/folders/1z1Z4vhJMH9EV1ZB2n_RuD8X889bOKVrt?usp=sharing
 
 
+
+## Contato
+
+Meu nome: Alice Moraes
+Email: alice123-ap@outlook.com
+
+
 ## Descrição
 
  - [Figma](https://www.figma.com/login)
